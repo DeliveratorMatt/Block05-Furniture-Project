@@ -26,3 +26,8 @@ button {
   color: darkblue;
   background-color: rgb(112, 200, 44);
 }
+
+button:hover {
+  background-color: lightyellow;
+  cursor: grabbing;
+}
