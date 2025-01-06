@@ -1,0 +1,13 @@
+p {
+  font-size: 16pt;
+}
+
+.product {
+  color: darkblue;
+}
+
+article {
+  border: 10px red solid;
+  padding: 10px;
+  margin: 10px;
+}
